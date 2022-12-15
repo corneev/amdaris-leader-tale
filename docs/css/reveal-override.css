@@ -1,5 +1,5 @@
 body:after {
-    content: url(../../media/logo.png);
+    content: url(../media/logo.png);
     position: fixed;
     bottom: 3.5em;
     left: 3.5em;
